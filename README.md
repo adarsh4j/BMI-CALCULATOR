@@ -1,4 +1,4 @@
-# bmi_calculator
+# Bmi_calculator
 
 BMI Calculator Application using Flutter.
 
